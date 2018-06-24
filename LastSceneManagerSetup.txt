@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/war.unity
+  isLoaded: 1
+  isActive: 1
